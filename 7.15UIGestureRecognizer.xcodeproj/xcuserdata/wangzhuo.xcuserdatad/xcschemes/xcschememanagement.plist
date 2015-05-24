@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>7.15UIGestureRecognizer WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>7.15UIGestureRecognizer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Notification - 7.15UIGestureRecognizer WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CB80DB481AE572110078A0B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CB80DB6F1AE572F50078A0B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CBB399FF1AE13C5A00839830</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CBB39A141AE13C5B00839830</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
